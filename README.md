@@ -86,7 +86,7 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/itz-roshan/">
+  <a href="https://www.linkedin.com/in/itz-roshan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
