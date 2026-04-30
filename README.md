@@ -1,28 +1,28 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Roshan%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Roshan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">💻 MCA Student | 📊 Aspiring Data Analyst</h3>
+<h2 align="center">📊 Data Analyst | Turning Data into Insights</h2>
 
-<!-- TYPING ANIMATION -->
+<!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Data+Analyst+in+Progress;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Cleaning+%7C+EDA+%7C+Visualization;Building+Real+World+Projects;Machine+Learning+Enthusiast">
 </p>
 
 ---
 
-## 👋 About Me  
+## 👨‍💻 About Me  
 
 - 🎓 MCA Student  
-- 📊 Passionate about Data Analysis & Machine Learning  
-- 🐍 Skilled in Python, Pandas, SQL  
-- 📈 Love working with data & dashboards  
+- 📊 Passionate about **Data Analysis & Visualization**  
+- 🧠 Skilled in **Python, SQL, Power BI**  
+- 📈 Love converting raw data into meaningful insights  
 - 🚀 Currently building real-world projects  
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,git,github" />
@@ -30,45 +30,58 @@
 
 ---
 
-## 📊 My Skills  
+## 📊 Data Analyst Skills  
 
 ✔️ Data Cleaning & Preprocessing  
 ✔️ Exploratory Data Analysis (EDA)  
-✔️ Data Visualization  
-✔️ Machine Learning Basics  
-✔️ Dashboard Creation (Power BI)  
+✔️ Data Visualization (Matplotlib, Seaborn, Power BI)  
+✔️ SQL Queries & Data Extraction  
+✔️ Dashboard Building  
+✔️ Basic Machine Learning  
 
 ---
 
 ## 🚀 Featured Projects  
 
-- 🚗 Car Price Prediction (Machine Learning)  
-- 📊 Sales Data Analysis (Python)  
-- 📈 Dashboard Projects (Power BI)  
+🔹 🚗 **Car Price Prediction (ML Project)**  
+🔹 📊 **Sales Data Analysis using Python**  
+🔹 📈 **Power BI Dashboard Projects**  
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats  
+## 📊 Most Used Languages  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🧠 What I’m Learning  
+
+- Advanced SQL  
+- Power BI Advanced Dashboards  
+- Machine Learning Projects  
 
 ---
 
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
@@ -76,26 +89,11 @@
 
 ## 💡 Quote  
 
-✨ "Turning Data into Decisions"  
+✨ “Data is the new oil, but insights are the fuel.”  
 
 ---
 
-<!-- FOOTER -->
+<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
-
-<!--
-**itz-roshan/itz-roshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
